@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Screen 1 Desert.unity
+    guid: 13708b66abff1144781ef3fe45e16532
+  - enabled: 1
+    path: Assets/Scenes/Screen 2 Desert.unity
+    guid: 4dda0025601fcdb4fb7c1e02c4ce3184
+  - enabled: 1
+    path: Assets/Scenes/Screen 3 Desert.unity
+    guid: 8e25f0f0c446ce64282a89d46c8df2f6
+  - enabled: 1
+    path: Assets/Scenes/Screen 4 Desert.unity
+    guid: 74833a178443e2147bb9eed890ab5d50
+  - enabled: 1
+    path: Assets/Scenes/Screen 1 Ship.unity
+    guid: 77d88190fc329874a84af62f64118daa
+  - enabled: 1
+    path: Assets/Scenes/Screen 2 Ship.unity
+    guid: cbd8a449a7b8e9d47826228502327f37
+  - enabled: 1
+    path: Assets/Scenes/Screen 3 Ship.unity
+    guid: 47b6680bbf3d1d84d87012c020359aed
+  - enabled: 1
+    path: Assets/Scenes/Screen 4 Ship.unity
+    guid: a9a916182c1bf954982db20c8f1ef65f
+  m_configObjects: {}
